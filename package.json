@@ -1,0 +1,19 @@
+{
+  "name": "asd",
+  "version": "0.0.1",
+  "description": "asd",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ads"
+  },
+  "keywords": [
+    "asd"
+  ],
+  "author": "",
+  "license": "ISC"
+}
